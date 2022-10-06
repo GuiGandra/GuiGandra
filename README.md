@@ -19,7 +19,7 @@
   <a href="https://github.com/GuiGandra">
   <img height="150em"src="https://github-readme-stats.vercel.app/api?username=GuiGandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiGandra&layout=compact&langs_count=7&theme=radical"/>
-  <img heigth="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiGandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GuiGandra" />
+  <img heigth="100em" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GuiGandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GuiGandra" />
 </div>
 
 
