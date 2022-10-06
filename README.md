@@ -1,4 +1,8 @@
 ### Guilherme Gandra 👋
+
+- 🔭 I'm currently working on Back-End in C# and TS
+- 🌱 I’m currently learning PHP
+
 <div align="center">
   <a href="https://github.com/GuiGandra">
   <img height="180em"src="https://github-readme-stats.vercel.app/api?username=GuiGandra&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
