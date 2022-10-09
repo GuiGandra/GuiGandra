@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Guilherme Gandra<h1> 
   
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<h3 align="center">A Backend Developer</h3>
+  
+  ##
+  
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/6JK9WA1gBVoLpRH26A/giphy.gif" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 
-<h3 align="center">A Backend Developer</h3>
 
-##
 
 ---
 
