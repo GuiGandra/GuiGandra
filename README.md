@@ -40,7 +40,7 @@
 <div align="center"> 
   <a href="https://www.instagram.com/gandragui/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gui_hengan@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/guilherme-henrique-921070107/](https://www.linkedin.com/in/guilherme-gandra-921070107/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-gandra-921070107/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.codewars.com/users/GuiGandra" target="_blank"><img src="	https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" target="_blank"></a> 
 
   ![Snake animation](https://github.com/GuiGandra/GuiGandra/blob/output/github-contribution-grid-snake.svg)
